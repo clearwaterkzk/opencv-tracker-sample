@@ -1,6 +1,7 @@
 # OpenCVによる追跡サンプル
 
 ## デモ
+OpenCVで一番初めのフレームがGUI出力された後, マウスで追跡対象を囲い, Enterキーを押すと追跡が開始される.
 ```bash
 # サンプル動画で結果を画面表示
 python DaSiamRPN_sample.py --device sample_movie/bird_short.mp4
